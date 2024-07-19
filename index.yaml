@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-std:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-19T16:27:23.77773311+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 37bda93f1875e9fc248e843b8ef950b92653784a3a4428abf6086b2b9e7bb0d2
+    name: nginx-std
+    type: application
+    urls:
+    - nginx-std-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-19T16:27:23.762433687+09:00"
